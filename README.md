@@ -1,5 +1,5 @@
 # Java-Hesap-Makinesi
-Toplama, Çıkarma, Çarpma, Bölme, Üs Alma, Küpkök Bulma ve Dikdörtgen Alan ve Çevre Hesabı Yapabilen Hesap Makinesi #java #Java #Calculatormachine #hesapmakinesi
+Toplama, Çıkarma, Çarpma, Bölme, Üs Alma, Küpkök Bulma ve Dikdörtgen Alan ve Çevre Hesabı Yapabilen Hesap Makinesi 
 
 # Uygulamadan Görüntüler
  
