@@ -3,7 +3,7 @@
 
 [EN] Makes process that Addition, Subtraction, Multipcalition, Division, Exponentiation, Cube Root and rectangle Area and Perimeter Calculate, Calculator Machine
 
-# Uygulamadan Görüntüler - Screenshots with Application
+# Uygulamadan Görüntüler - Screenshots In Application
  
  • TOPLAMA - ADDİTİON
  
