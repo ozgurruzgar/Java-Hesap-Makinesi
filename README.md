@@ -1,4 +1,4 @@
-# Java-Hesap-Makinesi
+# Java Hesap Makinesi
 [TR] Toplama, Çıkarma, Çarpma, Bölme, Üs Alma, Küpkök Bulma ve Dikdörtgen Alan ve Çevre Hesabı Yapabilen Hesap Makinesi 
 
 [EN] Makes process that Addition, Subtraction, Multipcalition, Division, Exponentiation, Cube Root and Rectangle Area and Perimeter Calculate, Calculator Machine
