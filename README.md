@@ -17,6 +17,6 @@
  
  <img src="Java p3.png" width="1000" height="550"/> 
  
- • DİKDÖRTGEN ALAN VE ÇEVRE HESAPLAMA - RECTANGELE AREA AND PERİMETER CALCULATE
+ • DİKDÖRTGEN ALAN VE ÇEVRE HESAPLAMA - RECTANGLE AREA AND PERİMETER CALCULATE
  
  <img src="Java p4.png" width="1000" height="550"/> 
